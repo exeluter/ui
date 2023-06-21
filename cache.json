@@ -1,0 +1,16 @@
+{
+    "hashes": {
+        "checkpoint/v1-5-pruned-emaonly.safetensors": {
+            "mtime": 1683280393.6012988,
+            "sha256": "6ce0161689b3853acaa03779ec93eafe75a02f4ced659bee03f50797806fa2fa"
+        },
+        "checkpoint/model.ckpt": {
+            "mtime": 1683277065.6039155,
+            "sha256": "89d59c3dde4c56c6d5c41da34cc55ce479d93b4007046980934b14db71bdb2a8"
+        },
+        "checkpoint/anything-v4.5.safetensors": {
+            "mtime": 1683488389.2833612,
+            "sha256": "1d1e459f9f549a404746390de21df33b8c8134f863b3b5da7d784843e782900a"
+        }
+    }
+}
